@@ -1,6 +1,6 @@
 {
   "name": "auto-feed-reading",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "adb 控制 Android 设备自动浏览新闻类应用",
   "private": true,
   "bin": {

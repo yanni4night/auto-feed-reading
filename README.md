@@ -15,7 +15,13 @@ npm i
 目前仅支持视频页，手动打开视频标签页，然后执行
 
 ```sh
-bin/qutoutiao
+chmod u+x bin/qutoutiao && bin/qutoutiao
+```
+
+### 趣多拍
+
+```sh
+chmod u+x bin/quduopai && bin/quduopai
 ```
 
 ## License
